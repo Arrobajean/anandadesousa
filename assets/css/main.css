@@ -776,7 +776,7 @@ a:hover
     margin-bottom: 0;
 }
 
-/** 10. Page --> Portfolio Item Type C
+/** 11. Page --> Portfolio Item Type C
 *******************************************************************/
 
 .portfolio-item-c
@@ -807,14 +807,11 @@ a:hover
     margin-bottom: 4em;
 }
 
-.portfolio-item-c img
-{
+.portfolio-item-c img {
     margin-bottom: 8rem;
-
     border: 5px solid #fff;
 }
 
-.portfolio-item-c img:last-child
-{
+.portfolio-item-c img:last-child {
     margin-bottom: 0;
 }
