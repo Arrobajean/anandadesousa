@@ -2,27 +2,25 @@
 
 
 	------------------------
-	-- TABLE OF CONTENTS --
+	-- CONTENIDO --
 	------------------------
 	
-	--  01. Basic
+	--  01. Formato/Reseteo
 	--  02. Preloader
     --  03. Hero
     --  04. Hero --> Front Content
     --  05. Hero --> Background Content
-    --  06. Portfolio
+    --  06. Portafolio
     --  07. Footer
     --  08. Page --> About
     --  09. Page --> Portfolio Item Type B
     --  10. Page --> Portfolio Item Type B
- 
- 
+    --  11. Page --> Portfolio Item Type C
+
  ******************************************************************/
 
 
-
-
-/** 1. Basic
+/** 1. Formato/Reseteo
 *******************************************************************/
 
 html
@@ -503,7 +501,7 @@ a:hover
 }
 
 
-/** 6. PORTFOLIO
+/** 6. PORTAFOLIO
 *******************************************************************/
 
 .portfolio

@@ -1,9 +1,9 @@
 jQuery(window).on('load', function() {
         
-    // HIDE PRELAODER
+    // HIDE PRELAODER // ESCONDER PRELOADER
     $(".preloader").addClass("preloader-hidden");
 
-    // SHOW/ANIMATE ANIMATION CONTAINER
+    // SHOW/ANIMATE ANIMATION CONTAINER // MOSTRAR/ANIMAR ANIMACION CONTAINER
     setTimeout(function(){
 
         $(".hero .animation-container").each(function(){
@@ -36,7 +36,7 @@ jQuery(document).ready(function($) {
     });
     
     
-    // SCROLL TOP BUTTON
+    // SCROLL TOP BUTTON // BOTON IR ARRIBA
     $(".scroll-top").click(function() {
         
       $("html, body").animate({ scrollTop: 0 }, 400);
@@ -60,7 +60,7 @@ jQuery(document).ready(function($) {
     });
     
     
-    // IMAGE CAROUSEL
+    // IMAGE CAROUSEL 
     $('.image-carousel').owlCarousel({
         center: true,
         items: 1,
